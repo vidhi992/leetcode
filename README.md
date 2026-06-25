@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vidhi992/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vidhi992/leetcode/tree/master/0049-group-anagrams) |
 | [0334-increasing-triplet-subsequence](https://github.com/vidhi992/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vidhi992/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vidhi992/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vidhi992/leetcode/tree/master/0049-group-anagrams) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vidhi992/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -26,4 +28,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vidhi992/leetcode/tree/master/0049-group-anagrams) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vidhi992/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vidhi992/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vidhi992/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vidhi992/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vidhi992/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
