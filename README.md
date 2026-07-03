@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vidhi992/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vidhi992/leetcode/tree/master/0049-group-anagrams) |
+| [0137-single-number-ii](https://github.com/vidhi992/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/vidhi992/leetcode/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/vidhi992/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/vidhi992/leetcode/tree/master/0605-can-place-flowers) |
@@ -69,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/vidhi992/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/vidhi992/leetcode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
