@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/vidhi992/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/vidhi992/leetcode/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/vidhi992/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/vidhi992/leetcode/tree/master/0605-can-place-flowers) |
 | [1029-two-city-scheduling](https://github.com/vidhi992/leetcode/tree/master/1029-two-city-scheduling) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vidhi992/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vidhi992/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vidhi992/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vidhi992/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vidhi992/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vidhi992/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vidhi992/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1029-two-city-scheduling](https://github.com/vidhi992/leetcode/tree/master/1029-two-city-scheduling) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vidhi992/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -93,9 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/vidhi992/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vidhi992/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
