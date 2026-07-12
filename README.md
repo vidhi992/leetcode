@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vidhi992/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vidhi992/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2942-find-words-containing-character](https://github.com/vidhi992/leetcode/tree/master/2942-find-words-containing-character) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vidhi992/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vidhi992/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vidhi992/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vidhi992/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2942-find-words-containing-character](https://github.com/vidhi992/leetcode/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
 | ------- |
