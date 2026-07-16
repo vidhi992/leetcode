@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/vidhi992/leetcode/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/vidhi992/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/vidhi992/leetcode/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/vidhi992/leetcode/tree/master/0605-can-place-flowers) |
 | [1029-two-city-scheduling](https://github.com/vidhi992/leetcode/tree/master/1029-two-city-scheduling) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vidhi992/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vidhi992/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/vidhi992/leetcode/tree/master/0414-third-maximum-number) |
 | [1029-two-city-scheduling](https://github.com/vidhi992/leetcode/tree/master/1029-two-city-scheduling) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vidhi992/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
