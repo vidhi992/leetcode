@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vidhi992/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/vidhi992/leetcode/tree/master/0049-group-anagrams) |
 | [0137-single-number-ii](https://github.com/vidhi992/leetcode/tree/master/0137-single-number-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vidhi992/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/vidhi992/leetcode/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/vidhi992/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/vidhi992/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/vidhi992/leetcode/tree/master/0049-group-anagrams) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vidhi992/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/vidhi992/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vidhi992/leetcode/tree/master/0414-third-maximum-number) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vidhi992/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vidhi992/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -126,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vidhi992/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vidhi992/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vidhi992/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
