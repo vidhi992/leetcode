@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/vidhi992/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2942-find-words-containing-character](https://github.com/vidhi992/leetcode/tree/master/2942-find-words-containing-character) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vidhi992/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vidhi992/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vidhi992/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -105,10 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/vidhi992/leetcode/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/vidhi992/leetcode/tree/master/1995-count-special-quadruplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vidhi992/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vidhi992/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vidhi992/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vidhi992/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/vidhi992/leetcode/tree/master/0991-broken-calculator) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/vidhi992/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/vidhi992/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vidhi992/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vidhi992/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vidhi992/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/vidhi992/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/vidhi992/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vidhi992/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vidhi992/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
