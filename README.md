@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vidhi992/leetcode/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/vidhi992/leetcode/tree/master/0605-can-place-flowers) |
 | [1029-two-city-scheduling](https://github.com/vidhi992/leetcode/tree/master/1029-two-city-scheduling) |
+| [1260-shift-2d-grid](https://github.com/vidhi992/leetcode/tree/master/1260-shift-2d-grid) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1534-count-good-triplets](https://github.com/vidhi992/leetcode/tree/master/1534-count-good-triplets) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vidhi992/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -155,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vidhi992/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/vidhi992/leetcode/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/vidhi992/leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
