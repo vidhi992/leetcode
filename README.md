@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vidhi992/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vidhi992/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1995-count-special-quadruplets](https://github.com/vidhi992/leetcode/tree/master/1995-count-special-quadruplets) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/vidhi992/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2404-most-frequent-even-element](https://github.com/vidhi992/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/vidhi992/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/vidhi992/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
