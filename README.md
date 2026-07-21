@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/vidhi992/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vidhi992/leetcode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/vidhi992/leetcode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/vidhi992/leetcode/tree/master/0605-can-place-flowers) |
 | [1029-two-city-scheduling](https://github.com/vidhi992/leetcode/tree/master/1029-two-city-scheduling) |
 | [1260-shift-2d-grid](https://github.com/vidhi992/leetcode/tree/master/1260-shift-2d-grid) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vidhi992/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vidhi992/leetcode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/vidhi992/leetcode/tree/master/0506-relative-ranks) |
 | [1029-two-city-scheduling](https://github.com/vidhi992/leetcode/tree/master/1029-two-city-scheduling) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vidhi992/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vidhi992/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/vidhi992/leetcode/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
 | ------- |
