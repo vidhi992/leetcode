@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/vidhi992/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vidhi992/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vidhi992/leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vidhi992/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/vidhi992/leetcode/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vidhi992/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vidhi992/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vidhi992/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bit Manipulation
 |  |
