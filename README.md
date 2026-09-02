@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vidhi992/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vidhi992/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/vidhi992/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vidhi992/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1995-count-special-quadruplets](https://github.com/vidhi992/leetcode/tree/master/1995-count-special-quadruplets) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vidhi992/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vidhi992/leetcode/tree/master/0242-valid-anagram) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/vidhi992/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0680-valid-palindrome-ii](https://github.com/vidhi992/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vidhi992/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0423-reconstruct-original-digits-from-english](https://github.com/vidhi992/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0492-construct-the-rectangle](https://github.com/vidhi992/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0991-broken-calculator](https://github.com/vidhi992/leetcode/tree/master/0991-broken-calculator) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/vidhi992/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
