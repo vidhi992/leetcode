@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/vidhi992/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2942-find-words-containing-character](https://github.com/vidhi992/leetcode/tree/master/2942-find-words-containing-character) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vidhi992/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/vidhi992/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3028-ant-on-the-boundary](https://github.com/vidhi992/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vidhi992/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3452-sum-of-good-numbers](https://github.com/vidhi992/leetcode/tree/master/3452-sum-of-good-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vidhi992/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vidhi992/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/vidhi992/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vidhi992/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/vidhi992/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Divide and Conquer
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/vidhi992/leetcode/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/vidhi992/leetcode/tree/master/1995-count-special-quadruplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vidhi992/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/vidhi992/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vidhi992/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vidhi992/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/vidhi992/leetcode/tree/master/0991-broken-calculator) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/vidhi992/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/vidhi992/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/vidhi992/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vidhi992/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/vidhi992/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vidhi992/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -235,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vidhi992/leetcode/tree/master/0836-rectangle-overlap) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/vidhi992/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
