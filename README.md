@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/vidhi992/leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/vidhi992/leetcode/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/vidhi992/leetcode/tree/master/0605-can-place-flowers) |
+| [0835-image-overlap](https://github.com/vidhi992/leetcode/tree/master/0835-image-overlap) |
 | [1029-two-city-scheduling](https://github.com/vidhi992/leetcode/tree/master/1029-two-city-scheduling) |
 | [1260-shift-2d-grid](https://github.com/vidhi992/leetcode/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vidhi992/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/vidhi992/leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/vidhi992/leetcode/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vidhi992/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Simulation
