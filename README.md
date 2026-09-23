@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vidhi992/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1534-count-good-triplets](https://github.com/vidhi992/leetcode/tree/master/1534-count-good-triplets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vidhi992/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1773-count-items-matching-a-rule](https://github.com/vidhi992/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vidhi992/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vidhi992/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/vidhi992/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vidhi992/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vidhi992/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1995-count-special-quadruplets](https://github.com/vidhi992/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2404-most-frequent-even-element](https://github.com/vidhi992/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2670-find-the-distinct-difference-array](https://github.com/vidhi992/leetcode/tree/master/2670-find-the-distinct-difference-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vidhi992/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vidhi992/leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3028-ant-on-the-boundary](https://github.com/vidhi992/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vidhi992/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vidhi992/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vidhi992/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vidhi992/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vidhi992/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vidhi992/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bit Manipulation
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vidhi992/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vidhi992/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/vidhi992/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Number Theory
 |  |
