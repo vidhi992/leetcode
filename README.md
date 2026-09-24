@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vidhi992/leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vidhi992/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/vidhi992/leetcode/tree/master/2942-find-words-containing-character) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/vidhi992/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/vidhi992/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vidhi992/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/vidhi992/leetcode/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/vidhi992/leetcode/tree/master/2404-most-frequent-even-element) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/vidhi992/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vidhi992/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vidhi992/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/vidhi992/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/vidhi992/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/vidhi992/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/vidhi992/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vidhi992/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/vidhi992/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vidhi992/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
