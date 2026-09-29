@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vidhi992/leetcode/tree/master/0242-valid-anagram) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/vidhi992/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0680-valid-palindrome-ii](https://github.com/vidhi992/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vidhi992/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vidhi992/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vidhi992/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -274,11 +275,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vidhi992/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vidhi992/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vidhi992/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vidhi992/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vidhi992/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vidhi992/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Knapsack Problem
