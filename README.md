@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/vidhi992/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vidhi992/leetcode/tree/master/0414-third-maximum-number) |
+| [0494-target-sum](https://github.com/vidhi992/leetcode/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/vidhi992/leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/vidhi992/leetcode/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/vidhi992/leetcode/tree/master/0605-can-place-flowers) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/vidhi992/leetcode/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/vidhi992/leetcode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/vidhi992/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vidhi992/leetcode/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/vidhi992/leetcode/tree/master/1049-last-stone-weight-ii) |
 ## Breadth-First Search
@@ -287,9 +289,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/vidhi992/leetcode/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/vidhi992/leetcode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/vidhi992/leetcode/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/vidhi992/leetcode/tree/master/1049-last-stone-weight-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/vidhi992/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
