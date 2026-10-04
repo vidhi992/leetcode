@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vidhi992/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vidhi992/leetcode/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vidhi992/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/vidhi992/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vidhi992/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/vidhi992/leetcode/tree/master/0018-4sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vidhi992/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/vidhi992/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Math
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vidhi992/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vidhi992/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Geometry
 |  |
