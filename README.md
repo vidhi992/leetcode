@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/vidhi992/leetcode/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/vidhi992/leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/vidhi992/leetcode/tree/master/0518-coin-change-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/vidhi992/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/vidhi992/leetcode/tree/master/0605-can-place-flowers) |
 | [0835-image-overlap](https://github.com/vidhi992/leetcode/tree/master/0835-image-overlap) |
 | [1029-two-city-scheduling](https://github.com/vidhi992/leetcode/tree/master/1029-two-city-scheduling) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vidhi992/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vidhi992/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/vidhi992/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/vidhi992/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vidhi992/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vidhi992/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vidhi992/leetcode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/vidhi992/leetcode/tree/master/0242-valid-anagram) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/vidhi992/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/vidhi992/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/vidhi992/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vidhi992/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vidhi992/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
