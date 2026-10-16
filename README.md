@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/vidhi992/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/vidhi992/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/vidhi992/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2233-maximum-product-after-k-increments](https://github.com/vidhi992/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vidhi992/leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2404-most-frequent-even-element](https://github.com/vidhi992/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/vidhi992/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vidhi992/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vidhi992/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vidhi992/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2233-maximum-product-after-k-increments](https://github.com/vidhi992/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vidhi992/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vidhi992/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vidhi992/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vidhi992/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/vidhi992/leetcode/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vidhi992/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2233-maximum-product-after-k-increments](https://github.com/vidhi992/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 ## Quickselect
 |  |
 | ------- |
