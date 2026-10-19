@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vidhi992/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vidhi992/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1773-count-items-matching-a-rule](https://github.com/vidhi992/leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/vidhi992/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vidhi992/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vidhi992/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vidhi992/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/vidhi992/leetcode/tree/master/0991-broken-calculator) |
 | [1029-two-city-scheduling](https://github.com/vidhi992/leetcode/tree/master/1029-two-city-scheduling) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vidhi992/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/vidhi992/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vidhi992/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vidhi992/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vidhi992/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/vidhi992/leetcode/tree/master/1029-two-city-scheduling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vidhi992/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vidhi992/leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/vidhi992/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vidhi992/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vidhi992/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/vidhi992/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
