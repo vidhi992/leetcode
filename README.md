@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vidhi992/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1995-count-special-quadruplets](https://github.com/vidhi992/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/vidhi992/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/vidhi992/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/vidhi992/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/vidhi992/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vidhi992/leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vidhi992/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vidhi992/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vidhi992/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/vidhi992/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2233-maximum-product-after-k-increments](https://github.com/vidhi992/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vidhi992/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vidhi992/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/vidhi992/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vidhi992/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vidhi992/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/vidhi992/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/vidhi992/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vidhi992/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vidhi992/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vidhi992/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vidhi992/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/vidhi992/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vidhi992/leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3028-ant-on-the-boundary](https://github.com/vidhi992/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vidhi992/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/vidhi992/leetcode/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/vidhi992/leetcode/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/vidhi992/leetcode/tree/master/1995-count-special-quadruplets) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/vidhi992/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/vidhi992/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vidhi992/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vidhi992/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
