@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vidhi992/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vidhi992/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/vidhi992/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3693-climbing-stairs-ii](https://github.com/vidhi992/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vidhi992/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vidhi992/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/vidhi992/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/vidhi992/leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/vidhi992/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [3290-maximum-multiplication-score](https://github.com/vidhi992/leetcode/tree/master/3290-maximum-multiplication-score) |
+| [3693-climbing-stairs-ii](https://github.com/vidhi992/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
