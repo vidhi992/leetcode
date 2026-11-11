@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/vidhi992/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/vidhi992/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/vidhi992/leetcode/tree/master/2233-maximum-product-after-k-increments) |
+| [2364-count-number-of-bad-pairs](https://github.com/vidhi992/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vidhi992/leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2404-most-frequent-even-element](https://github.com/vidhi992/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/vidhi992/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vidhi992/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1995-count-special-quadruplets](https://github.com/vidhi992/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/vidhi992/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2364-count-number-of-bad-pairs](https://github.com/vidhi992/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/vidhi992/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2670-find-the-distinct-difference-array](https://github.com/vidhi992/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vidhi992/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/vidhi992/leetcode/tree/master/0229-majority-element-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vidhi992/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [2364-count-number-of-bad-pairs](https://github.com/vidhi992/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/vidhi992/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/vidhi992/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vidhi992/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/vidhi992/leetcode/tree/master/0991-broken-calculator) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vidhi992/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/vidhi992/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/vidhi992/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/vidhi992/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/vidhi992/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/vidhi992/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
